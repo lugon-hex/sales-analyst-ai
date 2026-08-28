@@ -486,39 +486,6 @@ This prevents inconsistent location data from entering the analytics layer.
 
 Future versions will expand automated data-quality validation.
 
----
-
-## 🗺️ Roadmap
-
-### ✅ Completed
-
-* [x] Sales dataset generation
-* [x] SQLite database
-* [x] SQL analytics
-* [x] Revenue metrics
-* [x] Sales metrics
-* [x] Anomaly detection
-* [x] Read-only SQL validation
-* [x] Automated tests
-* [x] Streamlit foundation
-* [x] OpenAI integration
-
-### 🚧 Next
-
-* [ ] Improve AI agent tool calling
-* [ ] Display generated SQL in the dashboard
-* [ ] Display query results alongside the answer
-* [ ] Improve anomaly detection
-* [ ] Add data-quality tests
-* [ ] Add interactive charts
-* [ ] Add conversation history
-* [ ] Add PostgreSQL support
-* [ ] Add Docker
-* [ ] Add CI/CD with GitHub Actions
-* [ ] Deploy the application
-* [ ] Conduct user testing
-
----
 
 ## 🎯 Future Architecture
 
